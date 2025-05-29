@@ -37,7 +37,6 @@ python scraper.py
 - **Python 3**
 - `requests` – for sending HTTP requests
 - `BeautifulSoup` – for parsing and navigating HTML
-- `csv` – for saving data to a CSV file
 
 ---
 
